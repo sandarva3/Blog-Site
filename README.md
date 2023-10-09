@@ -19,13 +19,13 @@ It offers a range of features for both registered users and guests or visitors.
 
 To run BlogSite on your local machine, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/BlogSite.git`
+1. Clone this repository: `git clone https://github.com/sandarva3/Blog-Site.git`
 
-2. Install the required dependencies using pip: `pip install -r requirements.txt`
+2. Install the required dependencies which are listed in requirements.txt file above. Using pip: `pip install -r requirements.txt`
 
-3. Run the application: `python app.py`
+3. Run the application:
 
-4. Access the web application in your browser at `http://localhost:5000`
+4. Access the web application in your browser at `http://localhost:(your port number)`
 
 ## Usage
 
@@ -39,7 +39,7 @@ To run BlogSite on your local machine, follow these steps:
 
 ## Contributing
 
-If you'd like to contribute to this project through some better modifications then I'd really appreciate that. 
+If you'd like to contribute to this project through some better modifications then it would be much appreciated. 
 If the changes are much better enough then I'd apply those changes to the live website and list your username with a link to github profile as a contributor.
 
 ## License
