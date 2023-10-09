@@ -40,3 +40,8 @@ If the changes are much better enough then I'd apply those changes to the live w
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+## Acknowledgments
+### There are people who poured their time and effort for creating and developing things that are very helpful for many of us. I am really thankful for them.
+- The open-source community of people for providing libraries and tools used in this project.
+- The people who made the necessary resources available for learning.
